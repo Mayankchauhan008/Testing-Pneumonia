@@ -96,11 +96,11 @@ Test Accuracy: 94.6%
 
 ### 🔵 Accuracy Plot
 
-![Accuracy](https://user-images.githubusercontent.com/your-username/accuracy-plot.png)
+![Accuracy](https://user-images.githubusercontent.com/Mayankchauhan008/accuracy-plot.png)
 
 ### 🔴 Loss Plot
 
-![Loss](https://user-images.githubusercontent.com/your-username/loss-plot.png)
+![Loss](https://user-images.githubusercontent.com/Mayankchauhan008/loss-plot.png)
 
 > Replace these placeholder URLs with actual image links from your repo.
 
@@ -111,7 +111,7 @@ Test Accuracy: 94.6%
 ### 🔹 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chest-xray-pneumonia-detector.git
+git clone https://github.com/Mayankchauhan008/chest-xray-pneumonia-detector.git
 cd chest-xray-pneumonia-detector
 ```
 
