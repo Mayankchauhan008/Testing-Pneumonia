@@ -96,11 +96,13 @@ Test Accuracy: 94.6%
 
 ### 🔵 Accuracy Plot
 
-![Accuracy](https://user-images.githubusercontent.com/Mayankchauhan008/accuracy-plot.png)
+![image](https://github.com/user-attachments/assets/a09301f0-aa07-481a-a14d-c80079cb6a93)
+
 
 ### 🔴 Loss Plot
 
-![Loss](https://user-images.githubusercontent.com/Mayankchauhan008/loss-plot.png)
+![image](https://github.com/user-attachments/assets/54b44771-7ed4-4155-a618-5cd56edd6adf)
+
 
 > Replace these placeholder URLs with actual image links from your repo.
 
