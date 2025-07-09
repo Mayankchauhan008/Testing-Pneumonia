@@ -204,8 +204,8 @@ def prepare(filepath):
 model = tf.keras.models.load_model("cnn_model.keras") # load model
 
 # extra x-ray photo from google
-prediction = model.predict([prepare("x-ray-photo-image-chest-260nw-2569557853_2.jpg")])
+prediction = model.predict([prepare("x-ray-photo-image-chest-Pneumonia.jpg")])
 print(labels[int(prediction[0])])
 
-prediction = model.predict([prepare("x-ray-photo-image-chest-260nw-2569557853.jpg")])
+prediction = model.predict([prepare("x-ray-photo-image-chest-Normal.jpg")])
 print(labels[int(prediction[0])])
